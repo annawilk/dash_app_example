@@ -169,5 +169,5 @@ def update_graph_b(country_name, yaxis_column_b_name,):
 
 
 if __name__ == '__main__':
-    app.run_server(debug=False)
+    app.run_server()
 
